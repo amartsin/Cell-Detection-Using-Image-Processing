@@ -5,4 +5,4 @@ This Repo Contains the code to detect cells from a slide of bone marrow image an
 ## After Performing Opening operation 
 ![download (19)](https://user-images.githubusercontent.com/44440114/116953683-7fe48580-acab-11eb-9540-598c6351ba8b.png)
 ## We Finally Get the Contours and then Drawing Rectangular box around It
-
+![download (20)](https://user-images.githubusercontent.com/44440114/116953767-b4584180-acab-11eb-91da-3d328e0bcb3a.png)
